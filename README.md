@@ -1,2 +1,1 @@
-# mqim
-Facebook dont hide
+My devices face camera
